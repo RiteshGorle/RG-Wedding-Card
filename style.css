@@ -1,0 +1,76 @@
+/******************************/
+/*    first table heading     */
+/******************************/
+.back{
+  float: left;
+  margin-right: 30px;
+  font-size: 20px;
+
+}
+
+.back1{
+  float: right;
+}
+
+/******************************/
+/*    Second table heading     */
+/******************************/
+.Chat1{
+  background: #26734d ;
+}
+
+.back2{
+  float: right;
+}
+
+/******************************/
+/*    First table Body 1     */
+/******************************/ 
+.jumbotron{
+  height: 200px;
+}
+
+.hed{
+  float: left;
+
+}
+
+.jus{
+  float: right;
+}
+
+/******************************/
+/*    First table Body 2     */
+/******************************/ 
+.inf{
+  width: 50px;
+  height: 50px;
+  margin-right: 20px;
+  font-size: 40px;
+  align-self: center;
+}
+
+/******************************/
+/*    Second table Body       */
+/******************************/ 
+.bac{
+  background: url('WA.jpg');
+}
+
+#id1{
+  background-color:#b3ff99;
+  margin-left: 280px;
+  border-radius: 8px;
+
+
+}
+.siz{
+  font-size: 8px;
+  float: right;
+}
+
+
+
+
+
+
